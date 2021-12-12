@@ -12,6 +12,7 @@ nav{
   background: rgb(24, 45, 77);
   height: 80px;
   width: 100%;
+  padding-bottom: 0px;
 }
 label.logo{
   color: white;
