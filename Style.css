@@ -12,7 +12,8 @@ nav{
   background: rgb(24, 45, 77);
   height: 80px;
   width: 100%;
-  padding-bottom: 0px;
+  /* padding-bottom: 100px; */
+  position: fixed;
 }
 label.logo{
   color: white;
@@ -99,3 +100,12 @@ section{
   background-size: cover;
   height: calc(100vh - 80px);
 }
+
+.blockpictures {
+  display: inline-block; 
+  border-radius: 50px;
+  padding: 20px;
+  width: 30%;
+  height: 50%;
+}
+
